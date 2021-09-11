@@ -1,3 +1,3 @@
 # dark-notepad
-###Screrenshot from app
+### Screenshot from app
 ![](ss2322.png)
