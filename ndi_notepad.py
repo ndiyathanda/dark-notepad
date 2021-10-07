@@ -10,7 +10,7 @@ root = Tk()
 root['background']='black'
 root.title('Notepad')
 
-notepad = ScrolledText(root, width = 100, height = 50, bg='black', fg='white')
+notepad = ScrolledText(root, width = 100, height = 50, bg='black', fg='white', insertbackground='white')
 fileName = ' '
 
 def new():
